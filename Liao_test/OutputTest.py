@@ -7,3 +7,5 @@ class building:
         print(self.a*self.b)
 d=building(1,3,6)
 d.arae()
+e=building(1,5,8)
+e.arae()
