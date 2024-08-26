@@ -22,3 +22,5 @@ import matplotlib
 print("matplotlib版本:", matplotlib.__version__)
 
 print('Anaconda测试运行成功')
+print( matplotlib.__version__)
+print( matplotlib.__version__)
